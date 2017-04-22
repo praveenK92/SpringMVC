@@ -1,0 +1,2784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en-US" class="js">
+  <!--<![endif]-->  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Upcoming Events  
+    </title>
+    <link rel="stylesheet" href="http://aicf.in/wp-content/themes/Lucid/style.css" type="text/css"/>
+    <link rel="pingback" href="http://aicf.in/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+		<script src="http://aicf.in/wp-content/themes/Lucid/js/html5.js" type="text/javascript"></script>
+	<![endif]-->    <div class="fit-vids-style" id="fit-vids-style" style="display: none;">
+      ­
+      <style>
+        .fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}
+      </style>
+    </div>
+    <script async="" src="//www.google-analytics.com/analytics.js">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+		document.documentElement.className = 'js';
+	
+//]]>
+    </script>
+    <link href="http://aicf.in/wp-content/themes/Lucid/bootstrap-min.table.css" rel="stylesheet" type="text/css"/>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com"/>
+    <link rel="dns-prefetch" href="//s.w.org"/>
+    <link rel="alternate" type="application/rss+xml" title="All India Chess Federation » Feed" href="http://aicf.in/feed/"/>
+    <link rel="alternate" type="application/rss+xml" title="All India Chess Federation » Comments Feed" href="http://aicf.in/comments/feed/"/>
+    <link rel="alternate" type="text/calendar" title="All India Chess Federation » iCal Feed" href="http://aicf.in/calendar/?ical=1"/>
+    <script type="text/javascript">
+//<![CDATA[
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aicf.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+//]]>
+    </script>
+    <script src="http://aicf.in/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript">
+    </script>
+    <meta content="Lucid v.2.5" name="generator"/>
+    <style type="text/css">
+      
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+    </style>
+    <link rel="stylesheet" id="col-css" href="http://aicf.in/wp-content/themes/Lucid/col.css" type="text/css" media="all"/>
+    <link rel="stylesheet" id="tribe-events-bootstrap-datepicker-css-css" href="http://aicf.in/wp-content/plugins/aicf-events-calendar/vendor/bootstrap-datepicker/css/datepicker.css?ver=4.6.1" type="text/css" media="all"/>
+    <link rel="stylesheet" id="pc_google_analytics-frontend-css" href="http://aicf.in/wp-content/plugins/pc-google-analytics/assets/css/frontend.css?ver=1.0.0" type="text/css" media="all"/>
+    <link rel="stylesheet" id="tribe-events-custom-jquery-styles-css" href="http://aicf.in/wp-content/plugins/aicf-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.6.1" type="text/css" media="all"/>
+    <link rel="stylesheet" id="tribe-events-full-calendar-style-css" href="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/tribe-events-full.min.css?ver=3.8.1" type="text/css" media="all"/>
+    <link rel="stylesheet" id="tribe-events-calendar-style-css" href="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/tribe-events-theme.min.css?ver=3.8.1" type="text/css" media="all"/>
+    <link rel="stylesheet" id="tribe-events-calendar-full-mobile-style-css" href="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/tribe-events-full-mobile.min.css?ver=3.8.1" type="text/css" media="only screen and (max-width: 768px)"/>
+    <link rel="stylesheet" id="tribe-events-calendar-mobile-style-css" href="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/tribe-events-theme-mobile.min.css?ver=3.8.1" type="text/css" media="only screen and (max-width: 768px)"/>
+    <link rel="stylesheet" id="contact-form-7-css" href="http://aicf.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all"/>
+    <link rel="stylesheet" id="google_font_open_sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C300&amp;ver=4.6.1" type="text/css" media="all"/>
+    <link rel="stylesheet" id="google_font_open_sans_condensed-css" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C700&amp;ver=4.6.1" type="text/css" media="all"/>
+    <link rel="stylesheet" id="et-shortcodes-css-css" href="http://aicf.in/wp-content/themes/Lucid/epanel/shortcodes/css/shortcodes.css?ver=3.0" type="text/css" media="all"/>
+    <link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://aicf.in/wp-content/themes/Lucid/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0" type="text/css" media="all"/>
+    <link rel="stylesheet" id="fancybox-css" href="http://aicf.in/wp-content/plugins/easy-image-gallery/includes/lib/fancybox/jquery.fancybox-1.3.4.css?ver=1.2" type="text/css" media="screen"/>
+    <link rel="stylesheet" id="et_page_templates-css" href="http://aicf.in/wp-content/themes/Lucid/epanel/page_templates/page_templates.css?ver=1.8" type="text/css" media="screen"/>
+    <script type="text/javascript" src="http://aicf.in/wp-includes/js/jquery/jquery.js?ver=1.12.4">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/aicf-events-calendar/vendor/jquery-placeholder/jquery.placeholder.min.js?ver=2.0.7">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+/* <![CDATA[ */
+var tribe_bootstrap_datepicker_strings = {"dates":{"days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"daysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat","Sun"],"daysMin":["S","M","T","W","T","F","S","S"],"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"clear":"Clear","today":"Today"}};
+/* ]]> */
+
+//]]>
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/aicf-events-calendar/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js?ver=3.2">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/aicf-events-calendar/vendor/jquery-resize/jquery.ba-resize.min.js?ver=1.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/tribe-events.min.js?ver=3.8.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/tribe-events-bar.min.js?ver=3.8.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/alphanum.js?ver=1.0">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/chosen/chosen.js?ver=1.1.0">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/context/contextmenu.js?ver=3.9.6.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/footable.js?ver=2.0.1.2">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/filertify.js?ver=0.3.11">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/soundmanager2.js?ver=2.97a.20130101">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+/* <![CDATA[ */
+var fileaway_mgmt = {"ajaxurl":"http:\/\/aicf.in\/wp-admin\/admin-ajax.php","nonce":"89abcba3e8","device":"desktop","no_results":"Nothing found.","cancel_link":"Cancel","save_link":"Save","proceed_link":"Proceed","delete_check":"Delete?","ok_label":"OK","confirm_label":"I'm Sure","cancel_label":"Nevermind","file_singular":"file","file_plural":"files","delete_confirm":"You are about to permanently delete numfiles. Are you sure you're OK with that?","tamper1":"Sorry, there was a problem verifying the correct path to the files.","tamper2":"There was an error completing your request. The path to the directory has not been properly defined.","tamper3":"Sorry, but the name you specified cannot be processed.","tamper4":"An error has been triggered.","no_files_selected":"No files have been selected. Click on the table rows of the files you wish to select.","no_files_chosen":"No files have been chosen.","no_action":"No action has been selected.","no_destination":"No destination directory has been selected.","no_subdir_name":"You did not specify a name for your sub-directory.","unreadable_file":"Sorry, a file you have specified could not be read.","build_path":"Please build the path to your destination directory.","no_upload_support":"Your browser does not support the File Upload API. Please update.","exceeds_size":"This file exceeds the prettymax max file size.","type_not_permitted":"This file type is not permitted.","view_all_permitted":"View all permitted file types.","view_all_prohibited":"View all prohibited file types.","double_dots_override":"You may not use double dots or attempt to override the upload directory.","double_dots":"You may not use double dots in the filename.","creation_disabled":"Sub-directory creation is disabled.","no_override":"You may not attempt to override the upload directory.","multi_type":"You may not specify a script filetype prior to a non-script filetype.","upload_failure":"Sorry about that, but filename could not be uploaded.","rename_column":"Rename Column","delete_column":"Delete Column","insert_col_before":"Insert New Column Before","insert_col_after":"Insert New Column After","insert_row":"Insert New Row","delete_row":"Delete Row","save_backup":"Save Backup","new_column_name":"New Column Name","atleast_one_column":"There must be at least one column at all times.","atleast_one_row":"There must be at least one row at all times.","next_label":"Next","create_label":"Create","new_file_name":"New File Name","specify_file_name":"You must specify a file name.","specify_column_name":"You must specify at least one column name.","column_names":"Column Names, Comma-separated"};
+/* ]]> */
+
+//]]>
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/management.js?ver=3.9.6.1">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+/* <![CDATA[ */
+var fileaway_stats = {"ajaxurl":"http:\/\/aicf.in\/wp-admin\/admin-ajax.php","nonce":"618070c635"};
+/* ]]> */
+
+//]]>
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/file-away/lib/js/stats.js?ver=3.9.6.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/pc-google-analytics/assets/js/frontend.min.js?ver=1.0.0">
+    </script>
+    <link rel="https://api.w.org/" href="http://aicf.in/wp-json/"/>
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aicf.in/xmlrpc.php?rsd"/>
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aicf.in/wp-includes/wlwmanifest.xml"/>
+    <meta name="generator" content="WordPress 4.6.1"/>
+    <script>
+//<![CDATA[
+ var fileaway_filetype_groups = {'adobe' : ['abf', 'aep', 'afm', 'ai', 'as', 'eps', 'fla', 'flv', 'fm', 'indd', 'pdd', 'pdf', 'pmd', 'ppj', 'prc', 'ps', 'psb', 'psd', 'swf'], 'application' : ['bat', 'dll', 'exe', 'msi'], 'audio' : ['aac', 'aif', 'aifc', 'aiff', 'amr', 'ape', 'au', 'bwf', 'flac', 'iff', 'gsm', 'la', 'm4a', 'm4b', 'm4p', 'mid', 'mp2', 'mp3', 'mpc', 'ogg', 'ots', 'ram', 'raw', 'rex', 'rx2', 'spx', 'swa', 'tta', 'vox', 'wav', 'wma', 'wv'], 'compression' : ['7z', 'a', 'ace', 'afa', 'ar', 'bz2', 'cab', 'cfs', 'cpio', 'cpt', 'dar', 'dd', 'dmg', 'gz', 'lz', 'lzma', 'lzo', 'mar', 'rar', 'rz', 's7z', 'sda', 'sfark', 'shar', 'tar', 'tgz', 'xz', 'z', 'zip', 'zipx', 'zz'], 'css' : ['css', 'less', 'sass', 'scss'], 'image' : ['bmp', 'dds', 'exif', 'gif', 'hdp', 'hdr', 'iff', 'jfif', 'jpeg', 'jpg', 'jxr', 'pam', 'pbm', 'pfm', 'pgm', 'png', 'pnm', 'ppm', 'raw', 'rgbe', 'tga', 'thm', 'tif', 'tiff', 'webp', 'wdp', 'yuv'], 'msdoc' : ['doc', 'docm', 'docx', 'dot', 'dotx'], 'msexcel' : ['xls', 'xlsm', 'xlsb', 'xlsx', 'xlt', 'xltm', 'xltx', 'xlw'], 'openoffice' : ['dbf', 'dbf4', 'odp', 'ods', 'odt', 'stc', 'sti', 'stw', 'sxc', 'sxi', 'sxw'], 'powerpoint' : ['pot', 'potm', 'potx', 'pps', 'ppt', 'pptm', 'pptx', 'pub'], 'script' : ['asp', 'cfm', 'cgi', 'clas', 'class', 'cpp', 'htm', 'html', 'java', 'js', 'php', 'pl', 'py', 'rb', 'shtm', 'shtml', 'xhtm', 'xhtml', 'xml', 'yml'], 'text' : ['123', 'csv', 'log', 'psw', 'rtf', 'sql', 'txt', 'uof', 'uot', 'wk1', 'wks', 'wpd', 'wps'], 'video' : ['avi', 'divx', 'mov', 'm4p', 'm4v', 'mkv', 'mp4', 'mpeg', 'mpg', 'ogv', 'qt', 'rm', 'rmvb', 'vob', 'webm', 'wmv']}; var ssfa_filetype_icons = {'adobe' : '&#x21;', 'application' : '&#x54;', 'audio' : '&#x43;', 'compression' : '&#x27;', 'css' : '&#x28;', 'image' : '&#x31;', 'msdoc' : '&#x23;', 'msexcel' : '&#x24;', 'openoffice' : '&#x22;', 'powerpoint' : '&#x26;', 'script' : '&#x25;', 'text' : '&#x2e;', 'video' : '&#x57;', 'unknown' : '&#x29;'} 
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-82124260-2', 'auto');
+		ga('send', 'pageview');
+		
+		
+//]]>
+    </script>
+    <style>
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <style>
+      
+		#featured .flex-direction-nav a:hover, #video-slider-section .flex-direction-nav a:hover { background-color: #1A598E; }
+			#featured_section .active-slide .post-meta, #featured_section .switcher_hover .post-meta, .et_tab_link_hover .post-meta { background: #0D3769; }
+			h3.main-title { background-color: #0D3769; -moz-box-shadow: inset 0 0 10px rgba(15,70,125,0.1); -webkit-box-shadow: inset 0 0 10px rgba(15,70,125,0.1); box-shadow: inset 0 0 10px rgba(15,70,125,0.1); border: 1px solid #0D3769; }
+				.widget li { background: url(http://aicf.in/wp-content/themes/Lucid/images/widget-blue-bullet.png) no-repeat 24px 24px; }
+				.footer-widget li { background: url(http://aicf.in/wp-content/themes/Lucid/images/widget-blue-bullet.png) no-repeat 0 4px; }
+				.et_mobile_menu li a { background-image: url(http://aicf.in/wp-content/themes/Lucid/images/widget-blue-bullet.png); }
+		a { color: #0D3769; }
+		.et_video_play { background-color: #0D3769; }
+		#second-menu &gt; ul &gt; li &gt; a:hover { background-color: #1A598E; -moz-box-shadow: inset 0 0 10px rgba(0,0,0,0.3); -webkit-box-shadow: inset 0 0 10px rgba(0,0,0,0.3); box-shadow: inset 0 0 10px rgba(0,0,0,0.3); }
+		#second-menu &gt; ul &gt; li &gt; a:hover span {color :#fff;}
+		#second-menu ul ul li a:hover { background-color: #33b0ff; }
+		#second-menu ul.nav li ul { background: #0D3769; }
+		#second-menu ul ul li a { border-top: 1px solid #33b0ff; }
+		
+    </style>
+    <style type="text/css" id="custom-background-css">
+      
+body.custom-background { background-color: #fcfcfc; }
+
+    </style>
+  </head>
+  <body class="custom-background tribe-filter-live chrome et_includes_sidebar events-list events-archive tribe-theme-Lucid tribe-events-page-template tribe-is-responsive" style="width: auto;">
+    <div class="aicf-header-wrapper">
+      <div class="container container-header-top">
+        <div class="header-container-top">
+          <div class="aicf-logo" id="logo-area">
+            <a href="http://aicf.in/">
+              <img src="http://aicf.in/wp-content/themes/Lucid/images/logo-blue.png" alt="All India Chess Federation" id="logo"/>
+            </a>
+          </div>
+          <div class="search-container" id="search">
+            <div class="player-search-container">
+              <div id="search-form">
+                <form method="get" id="searchform1" action="http://aicf.in/players/">
+                  <input type="text" placeholder="Player / Rating Search" name="q" id="searchinput"/>
+                  <input type="image" alt="Submit" src="http://aicf.in/wp-content/themes/Lucid/images/search_btn.png" id="searchsubmit"/>
+                </form>
+              </div>
+              <!-- end #search-form -->            </div>
+            <div class="site-search-container">
+              <div id="search-form">
+                <form method="get" id="searchform" action="http://aicf.in//">
+                  <input type="text" placeholder="Search This Site..." name="s" id="searchinput"/>
+                  <input type="image" alt="Submit" src="http://aicf.in/wp-content/themes/Lucid/images/search_btn.png" id="searchsubmit"/>
+                </form>
+              </div>
+              <!-- end #search-form -->            </div>
+            <br class="clear"/>
+          </div>
+          <!-- end #search -->          <!-- 
+				<div class = "search-container" id="search" style="margin-right: 10px;">
+					<div class = "player-search-container">
+						<div id="search-form">
+							<form method="get" id="searchform1" action="http://aicf.in/players/">
+								<input class= "renewal-text-box" type="text" placeholder="Player Renewal" name="q" id="searchinput" />
+								<input type="image" alt="Submit" src="http://aicf.in/wp-content/themes/Lucid/images/search_btn.png" id="searchsubmit" />
+							</form>
+						</div> <!-- end #search-form -->          <!-- 
+					</div>
+					<div class="plr-reg-btn-wrapper">
+						<a href = "http://aicf.in/online-player-registration" class = "plr-reg-btn" type="submit">New Player Registration</a>
+					</div>
+					<br class="clear" />
+				</div> 
+				-->          <!-- end #search -->        </div>
+      </div>
+      <!-- end .container -->      <br class="clear"/>
+    </div>
+    <div id="secondary-menu">
+      <div class="container">
+        <a href="#" class="mobile_nav closed">
+          Categories Menu
+          <span>
+          </span>
+          <ul id="category_mobile_menu" class="et_mobile_menu">
+            <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-16 et_first_mobile_item">
+              <a href="http://aicf.in/">
+                <span class="main_text">
+                  Home
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53">
+              <a href="http://aicf.in/calendar/">
+                <span class="main_text">
+                  Calendar
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-7185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7185">
+              <a href="http://aicf.in/players/?q=">
+                <span class="main_text">
+                  Players
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75">
+              <a href="http://aicf.in/affiliates/">
+                <span class="main_text">
+                  Affiliates
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76">
+              <a href="http://aicf.in/downloads/">
+                <span class="main_text">
+                  Downloads
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77">
+              <a href="http://aicf.in/contact-us/">
+                <span class="main_text">
+                  Contact
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78">
+              <a href="http://aicf.in/information/">
+                <span class="main_text">
+                  Information
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79">
+              <a href="http://aicf.in/aicf-chronicles/">
+                <span class="main_text">
+                  AICF Chronicles
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80">
+              <a href="http://aicf.in/archives/">
+                <span class="main_text">
+                  Archives
+                </span>
+              </a>
+            </li>
+          </ul>
+        </a>
+        <nav id="second-menu" class="clearfix">
+          <ul id="menu-main-menu" class="nav sf-js-enabled">
+            <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-16">
+              <a href="http://aicf.in/">
+                <span class="main_text">
+                  Home
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Home
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53">
+              <a href="http://aicf.in/calendar/">
+                <span class="main_text">
+                  Calendar
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Calendar
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-7185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7185">
+              <a href="http://aicf.in/players/?q=">
+                <span class="main_text">
+                  Players
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Players
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75">
+              <a href="http://aicf.in/affiliates/">
+                <span class="main_text">
+                  Affiliates
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Affiliates
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76">
+              <a href="http://aicf.in/downloads/">
+                <span class="main_text">
+                  Downloads
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Downloads
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77">
+              <a href="http://aicf.in/contact-us/">
+                <span class="main_text">
+                  Contact
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Contact
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78">
+              <a href="http://aicf.in/information/">
+                <span class="main_text">
+                  Information
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Information
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79">
+              <a href="http://aicf.in/aicf-chronicles/">
+                <span class="main_text">
+                  AICF Chronicles
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  AICF Chronicles
+                </span>
+              </a>
+            </li>
+            <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80">
+              <a href="http://aicf.in/archives/">
+                <span class="main_text">
+                  Archives
+                </span>
+                <span class="menu_slide" style="display: block;">
+                  Archives
+                </span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <!-- end .container -->    </div>
+    <!-- end #secondary-menu -->    <div id="main-area">
+      <div class="container">
+        <div id="tribe-events-pg-template">
+          <div id="tribe-events" class="" data-live_ajax="1" data-datepicker_format="8" data-category="">
+            <div class="tribe-events-before-html">
+            </div>
+            <span class="tribe-events-ajax-loading" style="display: inline;">
+              <img class="tribe-events-spinner-medium" src="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/images/tribe-loading.gif" alt="Loading Events"/>
+            </span>
+            <div id="tribe-events-content-wrapper" class="tribe-clearfix">
+              <input type="hidden" id="tribe-events-list-hash" value=""/>
+              <!-- Tribe Bar -->              <div id="tribe-events-bar">
+                <form id="tribe-bar-form" class="tribe-clearfix tribe-bar-full" name="tribe-bar-form" method="post" action="http://aicf.in/calendar?post_type=tribe_events&amp;eventDisplay=default">
+                  <!-- Mobile Filters Toggle -->                  <div id="tribe-bar-collapse-toggle">
+                    
+			Find Events
+                    <span class="tribe-bar-toggle-arrow">
+                    </span>
+                  </div>
+                  <!-- Views -->                  <div id="tribe-bar-views">
+                    <div class="tribe-bar-views-inner tribe-clearfix">
+                      <h3 class="tribe-events-visuallyhidden">
+                        Event Views Navigation
+                      </h3>
+                      <label>
+                        View As
+                      </label>
+                      <select class="tribe-bar-views-select tribe-no-param" name="tribe-bar-view">
+                        <option selected="" value="http://aicf.in/calendar/list/" data-view="list">
+                          
+								List							
+                        </option>
+                        <option tribe-inactive="" value="http://aicf.in/calendar/month/" data-view="month">
+                          
+								Month							
+                        </option>
+                        <option tribe-inactive="" value="http://aicf.in/calendar/today/" data-view="day">
+                          
+								Day							
+                        </option>
+                      </select>
+                      <ul class="tribe-bar-views-list">
+                        <li class="tribe-bar-views-option tribe-bar-views-option-list tribe-bar-active" data-tribe-bar-order="0" data-view="list">
+                          <a href="#">
+                            <span class="tribe-icon-list">
+                              
+								List							
+                            </span>
+                          </a>
+                        </li>
+                        <li class="tribe-bar-views-option tribe-bar-views-option-month" data-tribe-bar-order="1" data-view="month">
+                          <a href="#">
+                            <span class="tribe-icon-month">
+                              
+								Month							
+                            </span>
+                          </a>
+                        </li>
+                        <li class="tribe-bar-views-option tribe-bar-views-option-day" data-tribe-bar-order="2" data-view="day">
+                          <a href="#">
+                            <span class="tribe-icon-day">
+                              
+								Day							
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                    <!-- .tribe-bar-views-inner -->                  </div>
+                  <!-- .tribe-bar-views -->                  <div class="tribe-bar-filters">
+                    <div class="tribe-bar-filters-inner tribe-clearfix">
+                      <div class="tribe-bar-date-filter">
+                        <div id="tribe-bar-dates">
+                          <label class="label-tribe-bar-date" for="tribe-bar-date">
+                            Events From
+                          </label>
+                          <input type="text" name="tribe-bar-date" style="position: relative;" id="tribe-bar-date" value="" placeholder="Date"/>
+                        </div>
+                        <input type="hidden" name="tribe-bar-date-day" id="tribe-bar-date-day" class="tribe-no-param" value=""/>
+                      </div>
+                      <div class="tribe-bar-search-filter">
+                        <label class="label-tribe-bar-search" for="tribe-bar-search">
+                          Search
+                        </label>
+                        <input type="text" name="tribe-bar-search" id="tribe-bar-search" value="" placeholder="Search"/>
+                      </div>
+                      <div class="tribe-bar-submit">
+                        <input class="tribe-events-button tribe-no-param" type="submit" name="submit-bar" value="Find Events"/>
+                      </div>
+                      <!-- .tribe-bar-submit -->                    </div>
+                    <!-- .tribe-bar-filters-inner -->                  </div>
+                  <!-- .tribe-bar-filters -->                </form>
+                <!-- #tribe-bar-form -->                <p style="margin-top:5px;">
+                  
+		Filter Events By Year: 
+					
+                  <a style="cursor:pointer;" onclick="year(2015)">
+                    2015
+                  </a>
+                  
+			, 			
+                  <a style="cursor:pointer;" onclick="year(2016)">
+                    2016
+                  </a>
+                  
+			, 			
+                  <a style="cursor:pointer;" onclick="year(2017)">
+                    2017
+                  </a>
+                  
+			, 			
+                  <a style="cursor:pointer;" onclick="year(2018)">
+                    2018
+                  </a>
+                  
+			, 			
+                  <a style="cursor:pointer;" onclick="year(2019)">
+                    2019
+                  </a>
+                </p>
+                <script type="text/javascript">
+//<![CDATA[
+
+		function year(a)
+		{
+			jQuery(".tribe-events-ajax-loading").show();
+			jQuery.ajax
+			({
+				url: 'http://aicf.in/wp-content/plugins/aicf-events-calendar/views/year-ajax.php',
+				data: "&year="+a,
+				type: 'post',
+				success: function(html)
+				{				
+					jQuery('#tribe-events-content').html(html);
+					jQuery(".tribe-events-ajax-loading").hide();
+				}
+			});
+		}
+	
+//]]>
+                </script>
+              </div>
+              <!-- #tribe-events-bar -->              <!-- Main Events Content -->              <div id="tribe-events-content" class="tribe-events-list">
+                <h2 class="tribe-events-page-title">
+                  Events for: 2017
+                </h2>
+                <div class="tribe-events-loop">
+                  <div style="background:#eee;float:left;width:100%">
+                    <div class="col-xs-4 table-event-name" style="padding:15px 15px 0;">
+                      Event Name
+                    </div>
+                    <div style="padding:15px 15px 0;" class="col-xs-3 table-event-venue">
+                      Event Venue
+                    </div>
+                    <div style="padding:15px 15px 0;" class="col-xs-2 table-event-date">
+                      Event Date
+                    </div>
+                    <div style="padding:15px 15px 0;" class="col-xs-2 table-event-code">
+                      Event Code
+                    </div>
+                    <div class="col-xs-1 table-event-type" style="padding:15px 15px 0;">
+                      Event Type
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month first" style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      January
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-schools-2017/" style="font-size:14px;">
+                          National Schools 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Chikhli Kalamna Road, Surya Nagar, Nagpur,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-05 to Jan-07
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/15th-delhi-gm-international-open-2017/" style="font-size:14px;">
+                          15th Delhi GM International Open – 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Ludlow Castle Sports Complex,  Near Kashmere Gate, Metro Station, Civil Lines, New Delhi, Delhi, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-09 to Jan-16
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        129723 / 129724 / 129725 / DEL / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/queen1.png" alt="" data-toggle="tooltip" data-placement="right" title="International Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/9th-chennai-open-gm-chess-tmt-2017-for-sakthi-group-dr-n-mahalingam-trophy-145912-tn-2017/" style="font-size:14px;">
+                          9th Chennai Open GM Chess tmt 2017 for Sakthi Group Dr.N.Mahalingam Trophy – 145912 / TN / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Jawaharlal Nehru Stadium, , Periamet, Chennai,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-18 to Jan-25
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        145912 / TN / 2017 
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/queen1.png" alt="" data-toggle="tooltip" data-placement="right" title="International Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/late-smt-kanchani-prabhude-sai-memorial-rapid-fide-rating-152732-goa-2017/" style="font-size:14px;">
+                          Late Smt Kanchani Prabhude Sai Memorial Rapid FIDE Rating – 152732 / GOA / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Banavlim Salceta , Goa,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-21 to Jan-22
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        152732 / GOA / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/knight.png" alt="" data-toggle="tooltip" data-placement="right" title="Rapid/Blitz Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/17th-north-east-chess-championship-2016-147493-ne-2017/" style="font-size:14px;">
+                          17th North East Chess Championship 2016 – 147493 / NE / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Khejurbagan,, Agartala,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-25 to Jan-29
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        147493 / NE / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/idl-national-open-fide-rating-for-visually-challenged-2016-140582-aicfb-2016/" style="font-size:14px;">
+                          AICFB National B Chess Championship FIDE Rating for Visually challenged 2017 – 140582 / AICFB / 2016
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      36C,B T Road , Kolkata,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-26 to Jan-30
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        140582 / AICFB / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-salem-fide-rating-148164-tn-2017/" style="font-size:14px;">
+                          1st Salem FIDE Rating – 148164 / TN / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Minnampalli, Attur, Main Road, Salem,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-26 to Jan-29
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        148164 / TN / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/3rd-brdca-below-1600-fide-rated-143549-kar-2017/" style="font-size:14px;">
+                          3rd BRDCA below 1600 FIDE rated – 143549 / KAR / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Hotel City Centaur, Near City Railway Station,, Bangalore,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-27 to Jan-29
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        143549 / KAR / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/aadi-fide-rating-mandla-2017-150792-mp-2017/" style="font-size:14px;">
+                          AADI FIDE Rating Mandla 2017 – 150792 / MP / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Near Mahatma Gandhi Stadium, Mandla,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-27 to Feb-01
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        150792 / MP / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-kusiara-longai-valley-open-fide-rating-148457-asm-2017/" style="font-size:14px;">
+                          1st Kusiara &amp; Longai Valley Open FIDE Rating  – 148457 / ASM / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      PO  &amp; DT Karimganj, Assam , Assam,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jan-31 to Feb-05
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        148457 / ASM / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      February
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/late-tirlochand-dhakal-fide-rating-148165-sik-2017/" style="font-size:14px;">
+                          Late Tirlochand Dhakal FIDE Rating – 148165 / SIK / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Sikkim,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-01 to Feb-06
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        148165 / SIK / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/8th-state-level-fide-rating-tournament-146298-aru-2016/" style="font-size:14px;">
+                          8th State Level FIDE Rating tournament – 146298 / ARU / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Itanagar, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-02 to Feb-06
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        146298 / ARU / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/rook.png" alt="" data-toggle="tooltip" data-placement="right" title="State Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/37th-national-team-15-national-team-women-chess-championship-148450-148453-mp-2017/" style="font-size:14px;">
+                          37th National Team &amp; 15 National Team women Chess Championship  – 148450 / 148453 / MP / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Kokta, Anand Nagar,, Bhopal,
+                      <br/>
+                      MP, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-02 to Feb-08
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        148450 / 148453 / MP / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/world-schools-chess-championship-2017/" style="font-size:14px;">
+                          World Schools Chess Championship 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Iasi, Romania				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-02 to Feb-02
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/thrissur-chess-academy-below-1600-fide-rating-146235-ker-2016/" style="font-size:14px;">
+                          Thrissur Chess Academy below 1600 FIDE Rating – 146235 / KER / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Thrissur,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-04 to Feb-06
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        146235 / KER / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/late-ramnath-d-volvotkar-memorial-all-india-open-fide-rating-153913-goa-2017/" style="font-size:14px;">
+                          All India Open FIDE Rating chess tournament 2017 – 153913 / GOA / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Gudi, Paroda,, Goa,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-08 to Feb-12
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        153913 / GOA / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/gm-shardul-gagre-rapid-fide-rating-152051-r-mah-2017/" style="font-size:14px;">
+                          GM.Shardul Gagre Rapid FIDE rating – 152051 (R) / MAH / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Tilak Road Near Raj hotel, Ahmednagar,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-11 to Feb-12
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        152051 (R) / MAH / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/knight.png" alt="" data-toggle="tooltip" data-placement="right" title="Rapid/Blitz Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/5th-brdca-rapid-fide-rating-153480-karr-2017/" style="font-size:14px;">
+                          5th BRDCA Rapid FIDE Rating  – 153480 / KAR(R) / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      IV Sanctum Hotel, No.33,5th Main Road, Sheshadri Road, Anand Rao Circle, (Next to Tata Consultancy Service), Bangalore,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-18 to Feb-19
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        153480 / KAR(R) / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/knight.png" alt="" data-toggle="tooltip" data-placement="right" title="Rapid/Blitz Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/late-shree-chandrakant-naik-memorial-all-goa-fide-rating-154434-goa-r-2017/" style="font-size:14px;">
+                          LAte Shree chandrakant Naik Memorial All Goa FIDE Rating – 154434 / GOA (R) / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Curchorem ,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-18 to Feb-19
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154434 / GOA (R) / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/knight.png" alt="" data-toggle="tooltip" data-placement="right" title="Rapid/Blitz Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/2nd-karur-fide-rating-chess-tmt-below-1600-138081-tn-2016/" style="font-size:14px;">
+                          2nd Karur FIDE Rating Chess Tmt below 1600 – 138081 / TN / 2016
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Kadhparai, Vennaimalai ( PO ) , Karur,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-24 to Feb-26
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        138081 / TN / 2016 
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-cdca-fide-rated-rapid-155344-tn-2017/" style="font-size:14px;">
+                          1st CDCA FIDE Rated Rapid – 155344 / TN / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Adyar, , Chennai,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Feb-25 to Feb-26
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        155344 / TN / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/knight.png" alt="" data-toggle="tooltip" data-placement="right" title="Rapid/Blitz Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      March
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-a-chess-championship-for-the-visually-challenge-2017-154435-aicfb2017/" style="font-size:14px;">
+                          National A Chess Championship for the Visually Challenge 2017 – 154435 / AICFB/2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Next To Dharavi bus Depot , Dharavi, Mumbai,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Mar-03 to Mar-11
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154435 / AICFB/2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/3rd-assam-down-town-university-fide-rating-156641-asm-2017/" style="font-size:14px;">
+                          3rd Assam Down Town University FIDE rating  – 156641 / ASM / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Panikhaiti, Guwahati,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Mar-22 to Mar-27
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        156641 / ASM / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/delhi-chess-association-fide-rated-2017-154107-del-2017/" style="font-size:14px;">
+                          Delhi Chess Association FIDE Rated 2017 – 154107 / DEL / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Ludlow Castle Sports Complex,  Near Kashmere Gate, Metro Station, Civil Lines, New Delhi, Delhi, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Mar-25 to Mar-29
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154107 / DEL / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-sl-mangrudiya-memorial-lakecity-holi-cup-fide-rating-154741-raj-2017/" style="font-size:14px;">
+                          1st SL Mangrudiya Memorial Lakecity Holi Cup FIDE Rating – 154741 / RAJ / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Near Devendra Dham, Jain Temple front of Celebration mall, Udaipur,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Mar-30 to Apr-04
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154741 / RAJ / 2017 
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/asian-youth-u8-10-12-1416-18-championship-2017/" style="font-size:14px;">
+                          Asian Youth U8, 10, 12, 14,16, 18 Championship 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Tashkent , Uzbekistan				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Mar-31 to Apr-09
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      April
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/world-amateur-championship-2017/" style="font-size:14px;">
+                          World Amateur Championship 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Spoleto, Italy				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-01 to Apr-09
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/06th-keshabananda-das-memorial-all-india-fide-rating-156071-ori-2017/" style="font-size:14px;">
+                          06th Keshabananda Das Memorial All India FIDE Rating – 156071 / ORI / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Saheed Nagar, Bhubaneswar,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-05 to Apr-09
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        156071 / ORI / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/7th-lucknow-fide-rating-147516-up-2016/" style="font-size:14px;">
+                          7th Lucknow FIDE Rating below 1600 – 147516 / UP / 2016
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Shivaji Marg, , Lucknow,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-06 to Apr-09
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        147516 / UP / 2016
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/11th-aca-all-india-open-fide-rated-155343-ker-2017/" style="font-size:14px;">
+                          11th ACA All India Open FIDE rated – 155343 / KER / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      BEACH HOTEL CALICUT, Calicut,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-08 to Apr-11
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        155343 / KER / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/ladji-kothari-rapid-fide-rating-156504rajr2017/" style="font-size:14px;">
+                          Ladji Kothari Rapid FIDE Rating – 156504/RAJ(R)/2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      New Bhupalpura, Udaipur,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-08 to Apr-09
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        156504/RAJ(R)/2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/candor-fide-rating-all-india-open-2017-150229-kar-2017/" style="font-size:14px;">
+                          Candor FIDE Rating All India open 2017- 150229 / KAR / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Begur - Koppa Road, Hullahalli, Off bannerghatta Road, Bear electronic City, Bengalauru,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-14 to Apr-18
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        150229 / KAR / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-sardar-prakash-singh-memorial-fide-rated-152182-har-2017/" style="font-size:14px;">
+                          1st Sardar Prakash Singh Memorial FIDE Rated – 152182 / HAR / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Murthal NH1 , Sonepat,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-17 to Apr-22
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        152182 / HAR / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-mahaveer-institute-of-science-technology-all-india-fide-rating-152733-tel-2017/" style="font-size:14px;">
+                          1st Mahaveer Institute of Science &amp; Technology All India FIDE Rating – 152733 / TEL / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Bandlaguda, Hyderabad,
+                      <br/>
+                      Telangana, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-22 to Apr-27
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        152733 / TEL / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/shri-damodar-all-india-fide-rating-below-1600-153914-goa-2017/" style="font-size:14px;">
+                          Shri Damodar All India FIDE Rating below-1600  – 153914 / GOA / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Near Maruti Temple, Davorism, Magao,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Apr-25 to Apr-27
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        153914 / GOA / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      May
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/pujya-pandit-satyendra-pathak-memorial-syna-open-fide-rating-155598-mp-2017/" style="font-size:14px;">
+                          Pujya Pandit Satyendra Pathak Memorial Syna Open FIDE Rating – 155598 / MP / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      NH 7 Jhinjhari, jabalpur Road,, Katni,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-01 to May-06
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        155598 / MP / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-khammam-all-india-open-fide-rating-153915-tel-2017/" style="font-size:14px;">
+                          1st Khammam all India Open FIDE Rating – 153915 / TEL  / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Khammam, Telangana, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-05 to May-10
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        153915 / TEL  / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/1st-calicut-chess-academy-open-fide-rating-156242-ker-2017/" style="font-size:14px;">
+                          1st Calicut Chess Academy open FIDE Rating – 156242 / KER / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Tali, , Calicut,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-11 to May-14
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        156242 / KER / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/delhi-chess-association-fide-rating-below-1600-154108-del-2017/" style="font-size:14px;">
+                          Delhi Chess Association FIDE Rating below -1600 – 154108 / DEL / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Ludlow Castle Sports Complex,  Near Kashmere Gate, Metro Station, Civil Lines, New Delhi, Delhi, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-13 to May-15
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154108 / DEL / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/hatsun-idhayam-fide-rating-154515-tn-2017/" style="font-size:14px;">
+                          Hatsun &amp; Idhayam FIDE Rating – 154515 / TN / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      College Road, Virudhunagar,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-13 to May-17
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154515 / TN / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/2nd-calicut-chess-academy-below-1600-fide-rated-156243-ker-2017/" style="font-size:14px;">
+                          2nd Calicut Chess Academy below 1600 FIDE rated – 156243 / KER / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Tali, , Calicut,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-15 to May-17
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        156243 / KER / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/third-pavna-all-india-fide-rated-chess-tournament-2017-152735-up-2017/" style="font-size:14px;">
+                          Third Pavna All India FIDE Rated Chess Tournament – 2017 – 152735 / UP / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Near Manglayatan Teerth Dham Mandir, , Agra Road, Aligarh,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-16 to May-21
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        152735 / UP / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/2nd-mahaveer-institute-of-science-technoloy-all-india-open-fide-rated-below-1600-152734-tel-2017/" style="font-size:14px;">
+                          2nd Mahaveer Institute of Science &amp; Technoloy all India Open FIDE Rated below 1600 – 152734 / TEL / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Bandlaguda, Hyderabad,
+                      <br/>
+                      Telangana, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-16 to May-21
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        152734 / TEL / 2017 
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/3rd-scs-fide-rating-open-153917-tn-2017/" style="font-size:14px;">
+                          3rd SCS FIDE rating open – 153917 / TN  / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Virudhu Nagar Main Road, Anaikuttam, Amathur, Sivakasi,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-18 to May-22
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        153917 / TN  / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/odisha-open-2017/" style="font-size:14px;">
+                          Odisha Open – 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Bhubaneswar, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-26 to Jun-02
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/queen1.png" alt="" data-toggle="tooltip" data-placement="right" title="International Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/28th-cusat-fide-rating-154436-ker-2017/" style="font-size:14px;">
+                          28th Cusat FIDE Rating – 154436 / KER / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Kochi ,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-27 to May-30
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154436 / KER / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/2nd-telangana-all-india-below-2000-153916-tel-2017/" style="font-size:14px;">
+                          2nd Telangana All India below 2000 – 153916 / TEL  / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Khammam, Telangana, India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      May-30 to Jun-04
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        153916 / TEL  / 2017
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      June
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/mayor-cup-2017/" style="font-size:14px;">
+                          Mayor Cup 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Maharashtra, MH, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jun-04 to Jun-13
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/queen1.png" alt="" data-toggle="tooltip" data-placement="right" title="International Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/chess-in-lakecity-summer-cup-fide-rating-chess-tmt-below-1600-154742-raj-2017/" style="font-size:14px;">
+                          Chess In Lakecity Summer Cup FIDE Rating Chess tmt below 1600 – 154742 / RAJ / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Near Devendra Dham, Jain Temple front of Celebration mall, Udaipur,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jun-09 to Jun-11
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        154742 / RAJ / 2017 
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/world-team-championship-2017/" style="font-size:14px;">
+                          World Team Championship 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Khanty-Mansiysk , Russian Federation				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jun-16 to Jun-28
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/eastern-asia-youth-chess-championship-2017/" style="font-size:14px;">
+                          Eastern Asia Youth Chess Championship 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Ulanbaatar , Mongolia				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jun-17 to Jun-26
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-under-9-2017/" style="font-size:14px;">
+                          National Under – 9 – 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Haryana, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jun-18 to Jun-26
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-under-25-2/" style="font-size:14px;">
+                          National Under – 25
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Andaman &amp; Nicobar, AN, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jun-20 to Jun-26
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-under-13/" style="font-size:14px;">
+                          National Under – 13
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Punjab, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jun-28 to Jul-06
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      July
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/commonwealth-chess-championship-2017/" style="font-size:14px;">
+                          Commonwealth Chess Championship 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      South Africa				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jul-02 to Jul-10
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-junior-2017/" style="font-size:14px;">
+                          National Junior 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Bihar, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jul-08 to Jul-18
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-under-7/" style="font-size:14px;">
+                          National Under – 7
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Andhra Pradesh, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jul-09 to Jul-17
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-women-challenger-2017/" style="font-size:14px;">
+                          National Women Challenger 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Karnataka, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Jul-21 to Jul-29
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      August
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-rapid-blitz-2017/" style="font-size:14px;">
+                          National Rapid &amp; Blitz 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      West Bengal, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Aug-01 to Aug-04
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-cities-2017/" style="font-size:14px;">
+                          National Cities 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      HP, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Aug-06 to Aug-10
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-challenger-2017/" style="font-size:14px;">
+                          National Challenger 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Gujarat, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Aug-12 to Aug-23
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/chess-beacon-1st-open-fide-rated-chess-tmt-155032-raj-2017/" style="font-size:14px;">
+                          Chess Beacon 1st Open FIDE Rated Chess tmt – 155032 / RAJ / 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      J.L.N. Marg, , Jaipur,
+                      <br/>
+                      India				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Aug-12 to Aug-16
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                      <span style="float:left;width:100%;font-weight:normal;font-size:90%">
+                        155032 / RAJ / 2017 
+                      </span>
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/pawn.png" alt="" data-toggle="tooltip" data-placement="right" title="FIDE Rated Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      September
+                    </span>
+                  </span>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-under-17/" style="font-size:14px;">
+                          National Under – 17
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Pondicherry, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Sep-01 to Sep-09
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      October
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-sub-junior-2017/" style="font-size:14px;">
+                          National Sub Junior – 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Gujarat, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Oct-01 to Oct-09
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-under-11/" style="font-size:14px;">
+                          National Under – 11
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Maharashtra, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Oct-23 to Oct-31
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      November
+                    </span>
+                  </span>
+                  <div class="event first" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-amateur-2017/" style="font-size:14px;">
+                          National Amateur 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Delhi, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Nov-05 to Nov-11
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-premier-2017/" style="font-size:14px;">
+                          National Premier 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Bihar, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Nov-15 to Nov-29
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/national-women-premier-2017/" style="font-size:14px;">
+                          National Women Premier – 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Gujarat, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Nov-24 to Dec-06
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                      <img src="http://aicf.in/wp-content/themes/Lucid/images/bishop.png" alt="" data-toggle="tooltip" data-placement="right" title="National Level Event"/>
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month " style="float:left;width:100%;box-sizing:border-box;">
+                    <span>
+                      December
+                    </span>
+                  </span>
+                  <div class="event last" style="float:left;width:100%">
+                    <div class="col-xs-4 table-event-name">
+                      <strong>
+                        <a href="http://aicf.in/calendar/world-youth-u-16-chess-olympiad-2017/" style="font-size:14px;">
+                          World youth U – 16 Chess Olympiad 2017
+                        </a>
+                      </strong>
+                    </div>
+                    <div class="col-xs-3 table-event-venue">
+                      Ahmedabad, Gujarat, 				
+                    </div>
+                    <div class="col-xs-2 table-event-date">
+                      Dec-10 to Dec-20
+                    </div>
+                    <div class="col-xs-2 text-center table-event-code">
+                    </div>
+                    <div class="col-xs-1 text-center table-event-type">
+                    </div>
+                  </div>
+                  <span class="tribe-events-list-separator-month" style="display:none;">
+                  </span>
+                </div>
+                <br class="clear"/>
+                <script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready(function($){$(".event").each(function(){if($(this).next().is(".tribe-events-list-separator-month")){$(this).addClass("last");}else if($(this).prev().is(".tribe-events-list-separator-month")){$(this).addClass("first");}});$('[data-toggle="tooltip"]').tooltip();});
+//]]>
+                </script>
+                <style type="text/css">
+                  .event{border-bottom:1px solid #ddd;line-height:1.5;padding:10px 0;}.event.last{border-bottom:1px solid transparent;}.event span{font-weight:600;}.tribe-events-loop table{width:100%;}th{padding:10px 0 0 10px;}td{padding:0 0 0 10px;}.tribe-events-list-separator-month.first{margin:0;}.event img{height:auto;width:25px;}.tooltip{min-width:150px;position:absolute;z-index:1070;display:block;font-size:12px;font-weight:400;line-height:1.4;visibility:visible;filter:alpha(opacity=0);opacity:0}.tooltip.in{filter:alpha(opacity=90);opacity:.9}.tooltip.right{padding:0 5px;margin-left:3px}.tooltip-inner{max-width:200px;padding:3px 8px;color:#fff;text-align:center;text-decoration:none;background-color:#000;border-radius:4px}.tooltip-arrow{position:absolute;width:0;height:0;border-color:transparent;border-style:solid}.tooltip.top-right .tooltip-arrow{bottom:0;left:5px;margin-bottom:-5px;border-width:5px 5px 0;border-top-color:#000}.tooltip.right .tooltip-arrow{top:50%;left:0;margin-top:-5px;border-width:5px 5px 5px 0;border-right-color:#000}.tooltip.left .tooltip-arrow{top:50%;right:0;margin-top:-5px;border-width:5px 0 5px 5px;border-left-color:#000}.tooltip.bottom .tooltip-arrow{top:0;left:50%;margin-left:-5px;border-width:0 5px 5px;border-bottom-color:#000}.tooltip.bottom-left .tooltip-arrow{top:0;right:5px;margin-top:-5px;border-width:0 5px 5px;border-bottom-color:#000}.tooltip.bottom-right .tooltip-arrow{top:0;left:5px;margin-top:-5px;border-width:0 5px 5px;border-bottom-color:#000}
+                </style>
+              </div>
+              <!-- #tribe-events-content -->              <div class="tribe-clear">
+              </div>
+            </div>
+            <!-- #tribe-events-content-wrapper -->            <div class="tribe-events-after-html">
+            </div>
+          </div>
+          <!-- #tribe-events -->          <p class="tribe-events-promo">
+          </p>
+        </div>
+        <!-- #tribe-events-pg-template -->        <script type="text/javascript">
+//<![CDATA[
+
+	jQuery(document).ready(function(){
+		var url = window.location.href;
+		var toshow = 'http://aicf.in/calendar/';
+		if(url == toshow){
+			var d = new Date();
+			var a = d.getFullYear();
+			jQuery(".tribe-events-ajax-loading").show();
+			jQuery.ajax
+			({
+				url: 'http://aicf.in/wp-content/plugins/aicf-events-calendar/views/year-ajax.php',
+				data: "&year="+a,
+				type: 'post',
+				success: function(html)
+				{				
+					jQuery('#tribe-events-content').html(html);
+					jQuery(".tribe-events-ajax-loading").hide();
+				}
+			});
+		}
+	});
+
+//]]>
+        </script>
+      </div>
+      <!-- end .container -->    </div>
+    <!-- end #main-area -->    <footer id="main-footer">
+      <div id="footer-divider">
+      </div>
+      <div class="container">
+        <div id="footer-widgets" class="clearfix">
+          <div class="footer-widget" style="min-height: 0px;">
+            <div id="black-studio-tinymce-10" class="f_widget widget_black_studio_tinymce">
+              <h4 class="widgettitle">
+              </h4>
+              <div class="textwidget">
+              </div>
+            </div>
+            <!-- end .footer-widget -->          </div>
+          <!-- end .footer-widget -->        </div>
+        <!-- end #footer-widgets -->      </div>
+      <!-- end .container -->    </footer>
+    <!-- end #main-footer -->    <div id="footer-bottom">
+      <div class="container clearfix">
+        <p style="float:left ;" id="copyright">
+          © 2016 All India Chess Federation. All Rights Reserved.
+        </p>
+        <!--<ul class="bottom-menu">				<li ><a href="http://aicf.in">Home</a></li>
+			<li class="page_item page-item-64"><a href="http://aicf.in/affiliates/">Affiliates</a></li>
+<li class="page_item page-item-62"><a href="http://aicf.in/aicf-chronicles/">AICF Chronicles</a></li>
+<li class="page_item page-item-3078"><a href="http://aicf.in/agm2014/">Annual General Body Meeting &#8211; 2014</a></li>
+<li class="page_item page-item-60"><a href="http://aicf.in/archives/">Archives</a></li>
+<li class="page_item page-item-51"><a href="http://aicf.in/calendar/">Calendar</a></li>
+<li class="page_item page-item-58"><a href="http://aicf.in/contact-us/">Contact</a></li>
+<li class="page_item page-item-56"><a href="http://aicf.in/downloads/">Downloads</a></li>
+<li class="page_item page-item-54"><a href="http://aicf.in/information/">Information</a></li>
+<li class="page_item page-item-2921"><a href="http://aicf.in/learn-chess/">Learn Chess</a></li>
+<li class="page_item page-item-4455"><a href="http://aicf.in/online-event-payment/">Online Event Payment</a></li>
+<li class="page_item page-item-4457"><a href="http://aicf.in/online-event-registration/">Online Event Registration</a></li>
+<li class="page_item page-item-6464"><a href="http://aicf.in/online-event-registration-thank-you/">Online Event Registration Response</a></li>
+<li class="page_item page-item-7478"><a href="http://aicf.in/online-payment-confirmation/">Online Payment Confirmation</a></li>
+<li class="page_item page-item-4459"><a href="http://aicf.in/online-player-payment/">Online Player Payment</a></li>
+<li class="page_item page-item-4461"><a href="http://aicf.in/online-player-payment-process/">Online Player Payment Process</a></li>
+<li class="page_item page-item-4463"><a href="http://aicf.in/online-player-payments/">Online Player Payments</a></li>
+<li class="page_item page-item-6467"><a href="http://aicf.in/online-player-payments-thank-you/">Online Player Payments Response</a></li>
+<li class="page_item page-item-4465"><a href="http://aicf.in/online-player-registration/">Online Player Registration</a></li>
+<li class="page_item page-item-6470"><a href="http://aicf.in/online-player-registration-thank-you/">Online player registration response</a></li>
+<li class="page_item page-item-6473"><a href="http://aicf.in/payment-process/">Payment Process</a></li>
+<li class="page_item page-item-66"><a href="http://aicf.in/player/">Player</a></li>
+<li class="page_item page-item-69"><a href="http://aicf.in/players/">Players</a></li>
+<li class="page_item page-item-3044"><a href="http://aicf.in/prevention-of-sexual-harassment-of-women-in-sports/">Prevention of Sexual Harassment of Women in Sports</a></li>
+<li class="page_item page-item-2923"><a href="http://aicf.in/rating-query/">Rating Query</a></li>
+<li class="page_item page-item-4189"><a href="http://aicf.in/rules-for-event/">Rules for Event</a></li>
+<li class="page_item page-item-2"><a href="http://aicf.in/sample-page/">Sample Page</a></li>
+<li class="page_item page-item-6489"><a href="http://aicf.in/terms-and-conditions/">Terms And Conditions</a></li>
+</ul>-->        <p class="terms_cond_footer" id="copyright">
+          <a href="http://aicf.in/terms-and-conditions/">
+             Terms &amp; Conditions 
+          </a>
+        </p>
+        <p id="copyright">
+          Powered by 
+          <a href="http://www.synamen.com" target="_blank" title="Synamen">
+            <img src="http://aicf.in/wp-content/themes/Lucid/images/synamen.png"/>
+          </a>
+        </p>
+      </div>
+      <!-- end .container -->    </div>
+    <!-- end #footer-bottom -->    <!-- This website uses Linkable Title Html And Php Widget v1.2.6 Wordpress plugin developed by PepLamb (PepLamb.com) -->    <script type="text/javascript">
+//<![CDATA[
+
+/* <![CDATA[ */
+var TribeList = {"ajaxurl":"http:\/\/aicf.in\/wp-admin\/admin-ajax.php","tribe_paged":"0"};
+/* ]]> */
+
+//]]>
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/aicf-events-calendar/resources/tribe-events-ajax-list.min.js?ver=3.8.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+
+//]]>
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/themes/Lucid/js/superfish.js?ver=1.0">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/themes/Lucid/js/jquery.flexslider-min.js?ver=1.0">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/themes/Lucid/js/jquery.fitvids.js?ver=1.0">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/themes/Lucid/js/custom.js?ver=1.0">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/themes/Lucid/epanel/page_templates/js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/plugins/easy-image-gallery/includes/lib/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.2">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+/* <![CDATA[ */
+var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","invalid":"Invalid email"};
+/* ]]> */
+
+//]]>
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/themes/Lucid/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-includes/js/wp-embed.min.js?ver=4.6.1">
+    </script>
+    <script type="text/javascript" src="http://aicf.in/wp-content/themes/Lucid/js/jquery.validate.min.js">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+		jQuery(document).ready(function()
+		{
+			jQuery("#ajax-loader").hide();
+			jQuery("#filter").click(function(){
+				jQuery("#ajax-loader").show();
+				jQuery("#players-output .table").hide();
+				var state = document.getElementById("state_name").value;
+				var type = document.getElementById("type_value").value;
+				jQuery.ajax
+				({
+					url: 'http://aicf.in/wp-content/themes/Lucid/ajax/filter.php',
+					data: "&state="+state+"&type="+type,
+					type: 'post',
+					success: function(html)
+					{			
+						jQuery('#players-output').html(html);
+						jQuery("#ajax-loader").hide();
+						jQuery("#players-output .table").show();
+					}
+				});
+			});
+			
+			/*jQuery("#ajax-loader").hide();
+			jQuery("#state_name").change(function(){
+				jQuery("#ajax-loader").show();
+				jQuery("#players-output .table").hide();
+				jQuery.ajax
+				({
+					url: 'http://aicf.in/wp-content/themes/Lucid/ajax/filter.php',
+					data: "&state="+document.getElementById("state_name").value,
+					type: 'post',
+					success: function(html)
+					{			
+						jQuery('#players-output').html(html);
+						jQuery("#ajax-loader").hide();
+						jQuery("#players-output .table").show();
+					}
+				});
+			});*/
+			
+			var v1 = jQuery("#online_plr_reg_form").validate({
+				rules: {
+					plr_name: {
+						required: true,
+					},
+					plr_fide_id: {
+						required: true,
+					},
+					plr_aicf_id: {
+						required: true,
+					},
+					plr_state: {
+						required: true,
+					},
+				},
+				messages: {
+					plr_name: "Please enter your name.",
+					plr_fide_id: "Please enter FIDE ID.",
+					plr_aicf_id: "Please enter AICF ID.",
+					plr_state: "Please enter your state.",
+				},
+				errorLabelContainer: jQuery("#online_plr_reg_form .error-wrapper"),
+				submitHandler: function(form) {
+					jQuery("#online_plr_reg_form")[0].submit();
+				}
+			});
+			
+			var v2 = jQuery("#online_event_reg_form").validate({
+				rules: {
+					event_email: {
+						required: true,
+						email: true
+					},
+					event_phone: {
+						required: true,
+						number: true,
+						min: 99999999,
+						max: 999999999999999,
+					},
+					event_amount: {
+						required: true,
+						number: true,
+						min: 1,
+					},
+				},
+				messages: {
+					event_email: "Please enter valid email address.",
+					event_amount: "Please enter valid amount.",
+					event_phone: "Please enter a valid phone number.",
+				},
+				submitHandler: function(form) {
+					jQuery("#online_event_reg_form")[0].submit();
+				}
+			});
+			
+			var v3 = jQuery("#online_plr_payments_form").validate({
+				rules: {
+					plr_email: {
+						required: true,
+						email: true,
+					},
+					fide_id: {
+						required: true,
+						number: true,
+						min: 1,
+					},
+					plr_mobile: {
+						required: true,
+						number: true,
+						min: 99999999,
+						max: 999999999999999,
+					},
+					event_amount: {
+						required: true,
+						number: true,
+						min: 1,
+					},
+				},
+				messages: {
+					plr_email: "Please enter valid email address.",
+					fide_id: "Please enter valid FIDE ID.",
+					plr_mobile: "Please enter mobile number.",
+					event_amount: "Please enter valid amount.",
+				},
+				submitHandler: function(form) {
+					jQuery("#online_plr_payments_form")[0].submit();
+				}
+			});
+		});
+		
+		function state(a,b)
+		{
+			var type = document.getElementById("type_value").value;
+			
+			jQuery("#ajax-loader").show();
+			jQuery("#players-output .table").hide();
+			jQuery.ajax
+				({
+					url: 'http://aicf.in/wp-content/themes/Lucid/ajax/filter.php',
+					data: "&state="+a+"&type="+type+"&page="+b,
+					type: 'post',
+					success: function(html)
+					{				
+						jQuery('#players-output').html(html);
+						jQuery("#ajax-loader").hide();
+						jQuery("#players-output .table").show();
+					}
+				});
+		}
+	
+//]]>
+    </script>
+    <link rel="stylesheet" type="text/css" href="http://aicf.in/wp-content/themes/Lucid/js/datepicker/jquery.datetimepicker.css"/>
+    <script src="http://aicf.in/wp-content/themes/Lucid/js/datepicker/jquery.datetimepicker.full.min.js">
+    </script>
+    <link rel="stylesheet" type="text/css" href="http://aicf.in/wp-content/themes/Lucid/js/select/select2.css"/>
+    <script src="http://aicf.in/wp-content/themes/Lucid/js/select/select2.js">
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+jQuery(document).ready(function($){
+	//alert("Inside");
+var $= jQuery.noConflict();	
+
+/** Tournament system Other Input Function **/	
+	$("#event_system_other").attr( "disabled", "disabled");
+
+	$('.tourn_sys input').click(function() {
+		if($('#event_system_other_id').is(':checked')) { 
+			//alert("it's checked"); 
+			$('#event_system_other').removeAttr( "disabled" );
+			$('#event_system_other').focus();
+			$("#event_system_other").attr( "required", "required");
+		}
+		else{
+			//alert("it's Notttttttttt checked"); 
+			$("#event_system_other").attr( "disabled", "disabled");
+			$("#event_system_other").val("");
+			$('#event_system_other').removeAttr( "required", "required" );
+		}
+	});
+/** END **/	
+
+/** Event Organiser's Address Field **/	
+$('#event_org_addr_select').change(function() { 
+	//alert('clicked'); 
+	var select_value = $("#event_org_addr_select").val();
+	if(select_value != '')
+	{
+		//alert('Not Null');
+		$("#event_org_addr_textarea").attr( "disabled", "disabled");
+		$("#event_org_addr_textarea").val("");
+		$('#event_org_addr_textarea').removeAttr( "required", "required" );
+		$('#event_org_addr_textarea').attr( "placeholder", "If you want to enter Event Organiser Address Manual. Please set default value of select box" );	
+		
+	}
+	else
+	{
+		//alert('Null Value');
+		$("#event_org_addr_textarea").removeAttr( "disabled", "disabled");
+		$('#event_org_addr_textarea').attr( "required", "required" );	
+		$('#event_org_addr_textarea').attr( "placeholder","Please enter Event Organiser Address");		
+	}
+}); 
+/** END Event Organiser's Address Field **/	
+
+/** Tournament location Address Field **/	
+
+$('#tourn_loc_addr_select').change(function() { 
+	//alert('clicked'); 
+	var select_value1 = $("#tourn_loc_addr_select").val();
+	//alert(select_value1);
+	if(select_value1 != '')
+	{
+		//alert('Not Null');
+		$("#tourn_loc_addr_textarea").attr( "disabled", "disabled");
+		$("#tourn_loc_addr_textarea").val("");
+		$('#tourn_loc_addr_textarea').removeAttr( "required", "required" );
+		$('#tourn_loc_addr_textarea').attr( "placeholder", "If you want to enter Precise tournament location & Address Manual. Please set default value of select box" );
+	}
+	else
+	{
+		//alert('Null Value');
+		$("#tourn_loc_addr_textarea").removeAttr( "disabled", "disabled");
+		$('#tourn_loc_addr_textarea').attr( "required", "required" );	
+		$('#tourn_loc_addr_textarea').attr( "placeholder","Please enter Precise tournament location with address.");		
+	} 
+}); 
+
+/** END Tournament location Address Field **/	
+
+/** Maximum rating Other Input Function **/	
+	$("#event_system_rating").attr( "disabled", "disabled");
+
+	$('.max_rating input').click(function() {
+		if($('.max_rating input[value="Open"]').is(':checked')) { 
+			//alert("it's checked"); 
+			//$("#event_system_rating").attr( "disabled", "disabled");
+			$('#event_system_rating').removeAttr( "disabled" );
+			$("#event_system_rating").val("");
+			$('#event_system_rating').removeAttr( "required", "required" );
+		}
+		else{
+			//alert("it's Notttttttttt checked"); 
+			$('#event_system_rating').removeAttr( "disabled" );
+			$('#event_system_rating').focus();
+			$("#event_system_rating").attr( "required", "required");
+		}
+	});
+/** END **/	
+
+/** Give live games **/	
+	$("#event_live_games_txt").attr( "disabled", "disabled");
+
+	$('.live_games input').click(function() {
+		if($('#live_games_id').is(':checked')) { 
+			//alert("it's checked"); 
+			$('#event_live_games_txt').removeAttr( "disabled" );
+			$('#event_live_games_txt').focus();
+			$("#event_live_games_txt").attr( "required", "required");
+		}
+		else{
+			//alert("it's Notttttttttt checked"); 
+			$("#event_live_games_txt").attr( "disabled", "disabled");
+			$("#event_live_games_txt").val("");
+			$('#event_live_games_txt').removeAttr( "required", "required" );
+		}
+	});
+/** END **/	
+
+/** Date & Time Picker **/	
+$(function () {
+	//alert();
+	var dateToday = new Date(); 
+	$('#datetimepicker').datetimepicker({minDate: dateToday});
+	$('#datetimepicker1').datetimepicker({minDate: dateToday});
+	/* $('#datetimepicker2').datetimepicker();  */
+
+	$("#datetimepicker1").change(function(){
+		var st_dt = new Date($("#datetimepicker").val());
+		var end_dt = new Date($("#datetimepicker1").val());
+		if(st_dt > end_dt){
+			$("#datetimepicker1").val('');
+			$("#datetimepicker1").focus();
+			alert('Please Enter a Valid Closing date & time');
+		}
+	});
+	$("#datetimepicker1").live('click', function(){
+		var start_date = $("#datetimepicker").val();
+		if(start_date == ''){ 
+			$(".xdsoft_datetimepicker").addClass('calenter_display');
+			//$("#datetimepicker").focus();
+			//alert('Please Enter Start Date & Time First');
+			$(".calenter_display").attr("style", "display: none !important");
+		}
+	});
+});
+/** END **/		
+
+/** Select2 Function **/	
+$(function () {
+	//alert();
+	$('#event_org_addr_select').select2();
+	$('#tourn_loc_addr_select').select2();
+	$('#event_standard').select2();
+	$('#event_rapid').select2();
+	$('#event_blitz').select2();
+});
+/** END **/		
+
+/** Standard, Rapid & Blitz ( Click & Check ) Event **/
+$('.ifstd').click(function(){
+	if($('.ifstd').is(":checked")){
+		//alert("Checkbox is checked.");
+		//$('#select2-event_standard-container').empty();
+		$('#select2-event_standard-container').text('Select');
+		$('#select2-event_standard-container').attr('title','');
+		$('#event_standard').attr('required','required');
+		$('.standard_row').css('display','block'); 
+    }
+	else if($('.ifstd').is(":not(:checked)")){
+		//alert("Checkbox is unchecked.");
+		$('#event_standard').removeAttr('required','required');
+		$('.standard_row').css('display','none');
+	}
+});
+$('.ifrapid').click(function(){
+	if($('.ifrapid').is(":checked")){
+		$('#select2-event_rapid-container').text('Select');
+		$('#select2-event_rapid-container').attr('title','');
+		$('#event_rapid').attr('required','required');
+		$('.rapid_row').css('display','block'); 
+    }
+	else if($('.ifrapid').is(":not(:checked)")){
+		$('#event_rapid').removeAttr('required','required');
+		$('.rapid_row').css('display','none');
+	}
+});
+$('.ifblitz').click(function(){
+	if($('.ifblitz').is(":checked")){
+		$('#select2-event_blitz-container').text('Select');
+		$('#select2-event_blitz-container').attr('title','');
+		$('#event_blitz').attr('required','required');
+		$('.blitz_row').css('display','block'); 
+    }
+	else if($('.ifblitz').is(":not(:checked)")){
+		$('#event_blitz').removeAttr('required','required');
+		$('.blitz_row').css('display','none');
+	}
+});
+/*END* Standard, Rapid & Blitz ( Click & Check ) Event *END*/
+
+});
+
+//]]>
+    </script>
+    
+
+f
+
+    <div id="fancybox-tmp">
+    </div>
+    <div id="fancybox-loading">
+      <div>
+      </div>
+    </div>
+    <div id="fancybox-overlay">
+    </div>
+    <div id="fancybox-wrap" style="">
+      <div id="fancybox-outer">
+        <div class="fancybox-bg" id="fancybox-bg-n">
+        </div>
+        <div class="fancybox-bg" id="fancybox-bg-ne">
+        </div>
+        <div class="fancybox-bg" id="fancybox-bg-e">
+        </div>
+        <div class="fancybox-bg" id="fancybox-bg-se">
+        </div>
+        <div class="fancybox-bg" id="fancybox-bg-s">
+        </div>
+        <div class="fancybox-bg" id="fancybox-bg-sw">
+        </div>
+        <div class="fancybox-bg" id="fancybox-bg-w">
+        </div>
+        <div class="fancybox-bg" id="fancybox-bg-nw">
+        </div>
+        <div id="fancybox-content">
+        </div>
+        <a id="fancybox-close">
+        </a>
+        <div id="fancybox-title">
+        </div>
+        <a href="javascript:;" id="fancybox-left">
+          <span class="fancy-ico" id="fancybox-left-ico">
+          </span>
+        </a>
+        <a href="javascript:;" id="fancybox-right">
+          <span class="fancy-ico" id="fancybox-right-ico">
+          </span>
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
